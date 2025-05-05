@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdallahebba
-- 👀 I’m interested in ai and machine leearning
+- 👀 I’m interested in ai and data analysis
   
 
 <!---
